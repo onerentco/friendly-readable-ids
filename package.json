@@ -1,5 +1,5 @@
 {
-  "name": "human-readable-ids",
+  "name": "friendly-readable-ids",
   "version": "1.0.1",
   "description": "Generate human-readable ids from lists of easy-to-spell nouns and adjectives",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coolaj86/human-readable-ids-js.git"
+    "url": "https://github.com/onerentco/friendly-readable-ids.git"
   },
   "keywords": [
     "hri",
@@ -29,8 +29,5 @@
   ],
   "author": "AJ ONeal <coolaj86@gmail.com> (http://coolaj86.com/)",
   "license": "Apache2",
-  "bugs": {
-    "url": "https://github.com/coolaj86/human-readable-ids-js/issues"
-  },
-  "homepage": "https://github.com/coolaj86/human-readable-ids-js"
+  "homepage": "https://github.com/onerentco/friendly-readable-ids.git"
 }
